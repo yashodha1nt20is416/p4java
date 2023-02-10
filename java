@@ -1,4 +1,4 @@
-package com.example.dbhelper1;
+ackage com.example.dbhelper1;
 import androidx.appcompat.app.AppCompatActivity;
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -63,6 +63,7 @@ res.setText(value);
 });
 }
 }
+
 
 ...................................................................................................................................
 
